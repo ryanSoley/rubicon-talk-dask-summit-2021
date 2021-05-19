@@ -1,0 +1,12 @@
+name: rubicon-ml-dask-summit
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.7
+  - pip
+
+  - jupyterlab
+  - rubicon-ml>=0.2.4
+
+  # for building the lab extension
+  - nodejs
