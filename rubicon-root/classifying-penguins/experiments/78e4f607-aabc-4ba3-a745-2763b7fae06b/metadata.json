@@ -1,0 +1,1 @@
+{"project_name": "Classifying Penguins", "id": "78e4f607-aabc-4ba3-a745-2763b7fae06b", "name": null, "description": null, "model_name": "RandomForestClassifier", "branch_name": "main", "commit_hash": "80ed4651121f86e8cf73a0a32772db70771df8de", "training_metadata": null, "tags": [], "created_at": {"_type": "datetime", "value": "2021-04-22 14:24:58.739883"}}

@@ -1,0 +1,1 @@
+{"project_name": "Classifying Penguins", "id": "c7a786cf-a9c4-4c5d-bfe9-b1062d4c1b79", "name": null, "description": null, "model_name": "DecisionTreeClassifier", "branch_name": "main", "commit_hash": "51905ae1db859c5768e7710274690fafedaccade", "training_metadata": null, "tags": [], "created_at": {"_type": "datetime", "value": "2021-04-22 14:28:43.066690"}}

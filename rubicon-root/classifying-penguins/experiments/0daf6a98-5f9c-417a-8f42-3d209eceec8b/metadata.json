@@ -1,0 +1,1 @@
+{"project_name": "Classifying Penguins", "id": "0daf6a98-5f9c-417a-8f42-3d209eceec8b", "name": null, "description": null, "model_name": "KNeighborsClassifier", "branch_name": "main", "commit_hash": "ffc839544cd66d7fa1a4882b4a540d8181a10238", "training_metadata": null, "tags": [], "created_at": {"_type": "datetime", "value": "2021-04-22 14:36:32.481288"}}
