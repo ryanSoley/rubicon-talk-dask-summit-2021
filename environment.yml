@@ -5,8 +5,10 @@ dependencies:
   - python>=3.7
   - pip
 
+  - dask-labextension
   - jupyterlab
   - rubicon-ml>=0.2.4
+  - scikit-learn
 
   # for building the lab extension
   - nodejs
